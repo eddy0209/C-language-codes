@@ -4,11 +4,11 @@ int main(){
 	printf("Enter the alphabet:");
 	scanf("%ch",&x);
 	switch (x){
-		case a:
-		case e:
-		case i:
-		case o:
-		case u:
+		case 'a':
+		case 'e':
+		case 'i':
+		case 'o':
+		case 'u':
 			printf("The alphabet is vowel");
 			break;
 		default:
