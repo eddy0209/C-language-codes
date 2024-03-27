@@ -10,7 +10,6 @@ int main(){
 		case 'o':
 		case 'u':
 			printf("The alphabet is vowel");
-			break;
 		default:
 			printf("The alphabet is consonant"):					
 		 
